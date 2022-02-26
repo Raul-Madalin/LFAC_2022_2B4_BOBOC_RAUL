@@ -1,0 +1,10 @@
+  nume  |  tip    |    scop   |   valoare  
+a   |int   |global   |Nu   
+M   |string   |global   |Nu   
+w   |bool   |global   |Nu   
+b   |int   |local   |10   
+z   |int   |const local   |Nu   
+c   |int   |main   |Nu   
+y   |int   |main   |10   
+s   |string   |main   |Nu   
+z   |int   |const main   |Nu   

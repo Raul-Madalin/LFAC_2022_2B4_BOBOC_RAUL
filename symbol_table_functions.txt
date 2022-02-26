@@ -1,0 +1,5 @@
+FUNCTII
+nume |tip | Nr param | Parametri   
+functie  |int  |2   |nr1:int ,nr2:int ,
+fct  |int  |0   |
+ina  |void  |0   |

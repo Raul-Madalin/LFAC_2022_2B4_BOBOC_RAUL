@@ -1,0 +1,16 @@
+VARIABILE
+nume |tip |scop |valoare   
+a   |int   |global   |1   
+w   |bool   |global   |Nu   
+x   |int   |local   |Nu   
+b   |int   |local   |10   
+z   |int   |const local   |Nu   
+ch   |char   |local   |Nu   
+c   |int   |main   |5   
+y   |int   |main   |10   
+s   |string   |main   |Nu   
+z   |int   |const main   |Nu   
+VECTORI
+nume  |tip  |scop  |nr_max  
+x   |int   |global   |30   
+a   |int   |local   |100   
